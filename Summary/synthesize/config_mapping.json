@@ -1,0 +1,596 @@
+{
+  "sections": [
+    {
+      "section_id": 1,
+      "section_key": "发展基础",
+      "section_title": "发展基础",
+      "subsections": [
+        {
+          "title": "持续深化理论武装，党的全面领导不断加强",
+          "key": "subsection_ac933b99",
+          "sources": [
+            {
+              "file": "党委统战部十四五规划.md",
+              "weight": 0.85,
+              "description": "占比85%"
+            },
+            {
+              "file": "纪委\"十四五\"规划.md",
+              "weight": 0.15,
+              "description": "占比15%"
+            }
+          ],
+          "index": 1
+        },
+        {
+          "title": "落实立德树人根本任务，人才培养成效显著",
+          "key": "subsection_42664684",
+          "sources": [
+            {
+              "file": "本科人才培养\"十四五\"发展规划-本科生院.md",
+              "weight": 1.0,
+              "description": "占大篇幅"
+            },
+            {
+              "file": "研究生院十四五规划.md",
+              "weight": 0.2,
+              "description": "作为补充"
+            }
+          ],
+          "index": 2
+        },
+        {
+          "title": "深入实施人才强校战略，队伍结构持续优化",
+          "key": "subsection_8e1777ea",
+          "sources": [
+            {
+              "file": "人力资源处\"十四五\"发展规划.md",
+              "weight": 1.0,
+              "description": "完全对应"
+            }
+          ],
+          "index": 3
+        },
+        {
+          "title": "强化基础研究优势，科研创新能力显著增强",
+          "key": "subsection_67c9ef1e",
+          "sources": [
+            {
+              "file": "十四五科技发展规划.md",
+              "weight": 0.8,
+              "description": "占比80%"
+            },
+            {
+              "file": "发展规划处十四五规划.md",
+              "weight": 0.2,
+              "description": "占比20%"
+            }
+          ],
+          "index": 4
+        },
+        {
+          "title": "传承创新优秀文化，南大风格学术体系更具特色",
+          "key": "subsection_e93a07f6",
+          "sources": [
+            {
+              "file": "党委统战部十四五规划.md",
+              "weight": 0.7,
+              "description": "占比70%"
+            },
+            {
+              "file": "社科处十四五发展规划.md",
+              "weight": 0.3,
+              "description": "占比30%"
+            }
+          ],
+          "index": 5
+        },
+        {
+          "title": "紧密对接国家需求，服务国家战略更加凸显",
+          "key": "subsection_028ddfb1",
+          "sources": [
+            {
+              "file": "创新创业与国内合作发展规划.md",
+              "weight": 0.85,
+              "description": "占比85%"
+            },
+            {
+              "file": "发展委员会\"十四五\"规划.md",
+              "weight": 0.15,
+              "description": "占比15%"
+            }
+          ],
+          "index": 6
+        },
+        {
+          "title": "扩大教育对外开放，国际交流合作深度拓展",
+          "key": "subsection_445fc34c",
+          "sources": [
+            {
+              "file": "国际处十四五规划.md",
+              "weight": 1.0,
+              "description": "占大篇幅"
+            }
+          ],
+          "index": 7
+        },
+        {
+          "title": "学科结构更加优化，学科内涵质量显著提升",
+          "key": "subsection_b18cca97",
+          "sources": [
+            {
+              "file": "社科处十四五发展规划.md",
+              "weight": 0.6,
+              "description": "占比60%"
+            },
+            {
+              "file": "十四五科技发展规划.md",
+              "weight": 0.4,
+              "description": "占比40%"
+            }
+          ],
+          "index": 8
+        },
+        {
+          "title": "有序推进依法治校，内部治理能力持续增强",
+          "key": "subsection_b80fee40",
+          "sources": [
+            {
+              "file": "纪委\"十四五\"规划.md",
+              "weight": 1.0,
+              "description": "占大篇幅"
+            }
+          ],
+          "index": 9
+        },
+        {
+          "title": "校园文化蓬勃发展，民生保障水平不断提高",
+          "key": "subsection_268d5c68",
+          "sources": [
+            {
+              "file": "后勤服务集团十四五规划.md",
+              "weight": 0.75,
+              "description": "占比75%"
+            },
+            {
+              "file": "资产管理处十四五规划.md",
+              "weight": 0.25,
+              "description": "占比25%"
+            }
+          ],
+          "index": 10
+        },
+        {
+          "title": "启动苏州校区建设，多校区协同取得新进展",
+          "key": "subsection_160ec486",
+          "sources": [
+            {
+              "file": "基本建设处十四五规划.md",
+              "weight": 1.0,
+              "description": "完全对应"
+            }
+          ],
+          "index": 11
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "section_key": "发展环境",
+      "section_title": "发展环境",
+      "subsections": []
+    },
+    {
+      "section_id": 3,
+      "section_key": "方针目标",
+      "section_title": "指导方针和主要目标",
+      "subsections": [
+        {
+          "title": "指导思想",
+          "key": "guiding_ideology",
+          "sources": [
+            {
+              "file": "国际处十四五规划.md",
+              "weight": 0.15,
+              "description": "占比15%"
+            },
+            {
+              "file": "本科人才培养\"十四五\"发展规划-本科生院.md",
+              "weight": 0.13,
+              "description": "占比13.3%"
+            },
+            {
+              "file": "党委统战部十四五规划.md",
+              "weight": 0.1,
+              "description": "占比10.2%"
+            }
+          ],
+          "index": 1
+        },
+        {
+          "title": "遵循原则",
+          "key": "guiding_principles",
+          "sources": [
+            {
+              "file": "本科人才培养\"十四五\"发展规划-本科生院.md",
+              "weight": 0.12,
+              "description": "占比11.7%"
+            },
+            {
+              "file": "国际处十四五规划.md",
+              "weight": 0.1,
+              "description": "占比9.7%"
+            },
+            {
+              "file": "信息中心\"十四五\"发展规划.md",
+              "weight": 0.08,
+              "description": "占比8.2%"
+            }
+          ],
+          "index": 2
+        },
+        {
+          "title": "发展目标",
+          "key": "development_targets",
+          "sources": [
+            {
+              "file": "本科人才培养\"十四五\"发展规划-本科生院.md",
+              "weight": 0.14,
+              "description": "占比14.2%"
+            },
+            {
+              "file": "\"十四五\"科技发展规划.md",
+              "weight": 0.13,
+              "description": "占比13.4%"
+            },
+            {
+              "file": "国际处十四五规划.md",
+              "weight": 0.1,
+              "description": "占比10.1%"
+            }
+          ],
+          "index": 3
+        },
+        {
+          "title": "总体思路",
+          "key": "overall_approach",
+          "sources": [
+            {
+              "file": "国际处十四五规划.md",
+              "weight": 0.14,
+              "description": "占比13.8%"
+            },
+            {
+              "file": "本科人才培养\"十四五\"发展规划-本科生院.md",
+              "weight": 0.1,
+              "description": "占比9.9%"
+            },
+            {
+              "file": "\"十四五\"科技发展规划.md",
+              "weight": 0.09,
+              "description": "占比8.7%"
+            }
+          ],
+          "index": 4
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "section_key": "建设任务",
+      "section_title": "建设任务",
+      "subsections": [
+        {
+          "title": "(一) 构建人才培养新体系",
+          "key": "subsection_eaab8806",
+          "sources": [
+            {
+              "file": "本科人才培养\"十四五\"发展规划-本科生院.md",
+              "weight": 0.7,
+              "description": "占比70%"
+            },
+            {
+              "file": "研究生院十四五规划.md",
+              "weight": 0.2,
+              "description": "占比20%"
+            },
+            {
+              "file": "学生就业指导中心\"十四五\"发展规划.md",
+              "weight": 0.2,
+              "description": "作为补充"
+            }
+          ],
+          "index": 1
+        },
+        {
+          "title": "(二) 优化队伍建设新机制",
+          "key": "subsection_4347a1f4",
+          "sources": [
+            {
+              "file": "人力资源处\"十四五\"发展规划.md",
+              "weight": 1.0,
+              "description": "占大篇幅"
+            },
+            {
+              "file": "专家组织.md",
+              "weight": 0.2,
+              "description": "作为补充"
+            }
+          ],
+          "index": 2
+        },
+        {
+          "title": "(三) 构建科学研究新模式",
+          "key": "subsection_e1abe36d",
+          "sources": [
+            {
+              "file": "十四五科技发展规划.md",
+              "weight": 0.8,
+              "description": "占比80%"
+            },
+            {
+              "file": "发展规划处十四五规划.md",
+              "weight": 0.2,
+              "description": "占比20%"
+            }
+          ],
+          "index": 3
+        },
+        {
+          "title": "(四) 推动文化传承新提升",
+          "key": "subsection_59ba7c48",
+          "sources": [
+            {
+              "file": "党委统战部十四五规划.md",
+              "weight": 0.6,
+              "description": "占比60%"
+            },
+            {
+              "file": "文化传承相关文件.md",
+              "weight": 0.4,
+              "description": "占比40%"
+            }
+          ],
+          "index": 4
+        },
+        {
+          "title": "(五) 构筑一流学科新生态",
+          "key": "subsection_5f00a851",
+          "sources": [
+            {
+              "file": "社科处十四五发展规划.md",
+              "weight": 0.5,
+              "description": "占比50%"
+            },
+            {
+              "file": "审计处\"十四五\"规划.md",
+              "weight": 0.15,
+              "description": "占比15%"
+            },
+            {
+              "file": "保卫处\"十四五规划\".md",
+              "weight": 0.15,
+              "description": "占比15%"
+            },
+            {
+              "file": "基本建设处十四五规划.md",
+              "weight": 0.2,
+              "description": "作为补充"
+            },
+            {
+              "file": "资产管理处十四五规划.md",
+              "weight": 0.2,
+              "description": "作为补充"
+            }
+          ],
+          "index": 5
+        },
+        {
+          "title": "(六) 拓展开放办学新格局",
+          "key": "subsection_a17705f6",
+          "sources": [
+            {
+              "file": "国际处十四五规划.md",
+              "weight": 0.85,
+              "description": "占比85%"
+            },
+            {
+              "file": "国际评估.md",
+              "weight": 0.15,
+              "description": "占比15%"
+            }
+          ],
+          "index": 6
+        },
+        {
+          "title": "(七) 强化社会服务新贡献",
+          "key": "subsection_037c6151",
+          "sources": [
+            {
+              "file": "创新创业与国内合作发展规划.md",
+              "weight": 0.7,
+              "description": "占比70%"
+            },
+            {
+              "file": "发展委员会\"十四五\"规划.md",
+              "weight": 0.3,
+              "description": "占比30%"
+            }
+          ],
+          "index": 7
+        },
+        {
+          "title": "(八) 打造多校区协同办学新格局",
+          "key": "subsection_fc94619b",
+          "sources": [
+            {
+              "file": "基本建设处十四五规划.md",
+              "weight": 0.6,
+              "description": "占比60%"
+            },
+            {
+              "file": "后勤服务集团十四五规划.md",
+              "weight": 0.3,
+              "description": "占比30%"
+            },
+            {
+              "file": "苏州校区.md",
+              "weight": 0.2,
+              "description": "作为补充"
+            }
+          ],
+          "index": 8
+        },
+        {
+          "title": "(九) 实现师生感受新提升",
+          "key": "subsection_fe6302db",
+          "sources": [
+            {
+              "file": "后勤服务集团十四五规划.md",
+              "weight": 0.5,
+              "description": "占比50%"
+            },
+            {
+              "file": "保卫处\"十四五规划\".md",
+              "weight": 0.3,
+              "description": "占比30%"
+            },
+            {
+              "file": "基本建设处十四五规划.md",
+              "weight": 0.2,
+              "description": "作为补充"
+            },
+            {
+              "file": "资产管理处十四五规划.md",
+              "weight": 0.2,
+              "description": "作为补充"
+            }
+          ],
+          "index": 9
+        },
+        {
+          "title": "(十) 开创党的建设新局面",
+          "key": "subsection_6d6b0564",
+          "sources": [
+            {
+              "file": "党委统战部十四五规划.md",
+              "weight": 0.4,
+              "description": "占比40%"
+            },
+            {
+              "file": "纪委\"十四五\"规划.md",
+              "weight": 0.35,
+              "description": "占比35%"
+            },
+            {
+              "file": "团委\"十四五\"发展规划.md",
+              "weight": 0.2,
+              "description": "占比20%"
+            },
+            {
+              "file": "主题教育.md",
+              "weight": 0.2,
+              "description": "作为补充"
+            }
+          ],
+          "index": 10
+        }
+      ]
+    },
+    {
+      "section_id": 5,
+      "section_key": "组织保障",
+      "section_title": "组织与保障",
+      "subsections": [
+        {
+          "title": "党的领导",
+          "key": "party_leadership",
+          "sources": [
+            {
+              "file": "纪委\"十四五\"规划.md",
+              "weight": 0.13,
+              "description": "占比13.0%"
+            },
+            {
+              "file": "信息中心\"十四五\"发展规划.md",
+              "weight": 0.08,
+              "description": "占比8.2%"
+            },
+            {
+              "file": "党委统战部十四五规划.md",
+              "weight": 0.08,
+              "description": "占比8.1%"
+            }
+          ],
+          "index": 1
+        },
+        {
+          "title": "社会合作",
+          "key": "social_collaboration",
+          "sources": [
+            {
+              "file": "发展委员会\"十四五\"规划.md",
+              "weight": 0.43,
+              "description": "占比42.5%"
+            },
+            {
+              "file": "创新创业与国内合作发展规划.md",
+              "weight": 0.07,
+              "description": "占比6.7%"
+            },
+            {
+              "file": "\"十四五\"科技发展规划.md",
+              "weight": 0.05,
+              "description": "占比5.2%"
+            }
+          ],
+          "index": 2
+        },
+        {
+          "title": "资源协调",
+          "key": "resource_coordination",
+          "sources": [
+            {
+              "file": "后勤服务集团十四五规划.md",
+              "weight": 0.19,
+              "description": "占比18.5%"
+            },
+            {
+              "file": "人力资源处\"十四五\"发展规划.md",
+              "weight": 0.09,
+              "description": "占比9.1%"
+            },
+            {
+              "file": "信息中心\"十四五\"发展规划.md",
+              "weight": 0.09,
+              "description": "占比9.0%"
+            }
+          ],
+          "index": 3
+        },
+        {
+          "title": "规划实施",
+          "key": "planning_implementation",
+          "sources": [
+            {
+              "file": "纪委\"十四五\"规划.md",
+              "weight": 0.11,
+              "description": "占比10.5%"
+            },
+            {
+              "file": "人力资源处\"十四五\"发展规划.md",
+              "weight": 0.09,
+              "description": "占比8.6%"
+            },
+            {
+              "file": "学生就业指导中心\"十四五\"发展规划.md",
+              "weight": 0.08,
+              "description": "占比8.3%"
+            }
+          ],
+          "index": 4
+        }
+      ]
+    }
+  ]
+}

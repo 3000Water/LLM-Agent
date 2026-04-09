@@ -1,0 +1,147 @@
+{
+  "options": {
+    "enabled": true,
+    "method": "auto",
+    "min_bullets_to_split": 8,
+    "min_chars_to_split": 600,
+    "max_units": 8,
+    "min_units": 2
+  },
+  "sections": {
+    "发展基础": {
+      "section_id": 1,
+      "section_title": "发展基础",
+      "bullet_count": 109,
+      "total_chars": 7168,
+      "mode": "split",
+      "candidates": {
+        "keyword": {
+          "method": "keyword",
+          "k": 8,
+          "silhouette": 0.034,
+          "intra_similarity": 0.1044
+        },
+        "embedding": {
+          "method": "embedding",
+          "k": 5,
+          "silhouette": 0.0505,
+          "intra_similarity": 0.2679
+        }
+      },
+      "selected": {
+        "method": "embedding",
+        "k": 5,
+        "silhouette": 0.0505,
+        "intra_similarity": 0.2679
+      }
+    },
+    "发展环境": {
+      "section_id": 2,
+      "section_title": "发展环境",
+      "bullet_count": 67,
+      "total_chars": 3827,
+      "mode": "split",
+      "candidates": {
+        "keyword": {
+          "method": "keyword",
+          "k": 7,
+          "silhouette": 0.0485,
+          "intra_similarity": 0.1072
+        },
+        "embedding": {
+          "method": "embedding",
+          "k": 7,
+          "silhouette": 0.0675,
+          "intra_similarity": 0.2909
+        }
+      },
+      "selected": {
+        "method": "embedding",
+        "k": 7,
+        "silhouette": 0.0675,
+        "intra_similarity": 0.2909
+      }
+    },
+    "方针目标": {
+      "section_id": 3,
+      "section_title": "指导方针和主要目标",
+      "bullet_count": 95,
+      "total_chars": 5997,
+      "mode": "split",
+      "candidates": {
+        "keyword": {
+          "method": "keyword",
+          "k": 8,
+          "silhouette": 0.0389,
+          "intra_similarity": 0.1023
+        },
+        "embedding": {
+          "method": "embedding",
+          "k": 8,
+          "silhouette": 0.0542,
+          "intra_similarity": 0.2915
+        }
+      },
+      "selected": {
+        "method": "embedding",
+        "k": 8,
+        "silhouette": 0.0542,
+        "intra_similarity": 0.2915
+      }
+    },
+    "建设任务": {
+      "section_id": 4,
+      "section_title": "建设任务",
+      "bullet_count": 191,
+      "total_chars": 12270,
+      "mode": "split",
+      "candidates": {
+        "keyword": {
+          "method": "keyword",
+          "k": 8,
+          "silhouette": 0.0412,
+          "intra_similarity": 0.1053
+        },
+        "embedding": {
+          "method": "embedding",
+          "k": 4,
+          "silhouette": 0.0475,
+          "intra_similarity": 0.2398
+        }
+      },
+      "selected": {
+        "method": "embedding",
+        "k": 4,
+        "silhouette": 0.0475,
+        "intra_similarity": 0.2398
+      }
+    },
+    "组织保障": {
+      "section_id": 5,
+      "section_title": "组织与保障",
+      "bullet_count": 34,
+      "total_chars": 2267,
+      "mode": "split",
+      "candidates": {
+        "keyword": {
+          "method": "keyword",
+          "k": 8,
+          "silhouette": 0.0788,
+          "intra_similarity": 0.1667
+        },
+        "embedding": {
+          "method": "embedding",
+          "k": 8,
+          "silhouette": 0.1253,
+          "intra_similarity": 0.2962
+        }
+      },
+      "selected": {
+        "method": "embedding",
+        "k": 8,
+        "silhouette": 0.1253,
+        "intra_similarity": 0.2962
+      }
+    }
+  }
+}

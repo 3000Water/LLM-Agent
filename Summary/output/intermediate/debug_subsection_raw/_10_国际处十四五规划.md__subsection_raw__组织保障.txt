@@ -1,0 +1,6 @@
+{
+    "party_leadership": [],
+    "social_collaboration": [],
+    "resource_coordination": [],
+    "planning_implementation": []
+}

@@ -1,0 +1,6 @@
+{
+    "party_leadership": [],
+    "social_collaboration": [],
+    "resource_coordination": [],
+    "planning_implementation": ["完善《南京大学院系学生就业工作考核办法》，以量化的就业质量指标体系考核院系就业工作绩效。", "2021年底前初步形成常态机制，并在每年不断根据实际情况动态调整。"]
+}
